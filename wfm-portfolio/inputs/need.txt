@@ -1,0 +1,22 @@
+# Пример показателей потребности. Значения иллюстративные, не из рабочей системы.
+# Пустой run_id = взять опубликованный квартал на указанные даты (или даты из прогноза).
+
+run_id=
+period_from=
+period_to=
+sl=0.80
+voice_sl_sec=30
+voice_patience_sec=120
+voice_short_sec=5
+voice_k=1
+voice_aht_sec=
+chat_sl_sec=240
+chat_patience_sec=300
+chat_k=1
+chat_concurrency=2
+chat_aht_sec=
+planned=0.08
+absence=0.12
+breaks=0.125
+utz=0.929
+maternity=0

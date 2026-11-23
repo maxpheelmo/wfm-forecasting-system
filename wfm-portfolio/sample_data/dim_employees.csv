@@ -1,0 +1,9 @@
+login,title,department,post,removed
+agent_01,agent 01,Отдел поддержки,operator,False
+agent_02,agent 02,Отдел поддержки,operator,False
+agent_03,agent 03,Отдел поддержки,operator,False
+agent_04,agent 04,Отдел поддержки,operator,False
+agent_05,agent 05,Отдел поддержки,operator,False
+agent_06,agent 06,Отдел поддержки,operator,False
+agent_07,agent 07,Отдел поддержки,operator,False
+agent_08,agent 08,Отдел поддержки,operator,False
